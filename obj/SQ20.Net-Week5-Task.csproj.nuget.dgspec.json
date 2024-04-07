@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Decagon\\source\\repos\\SQ20.Net-Week5-Task\\SQ20.Net-Week5-Task.csproj": {}
+    "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-5-task-millicent-ekekwe\\SQ20.Net-Week5-Task.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Decagon\\source\\repos\\SQ20.Net-Week5-Task\\SQ20.Net-Week5-Task.csproj": {
+    "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-5-task-millicent-ekekwe\\SQ20.Net-Week5-Task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Decagon\\source\\repos\\SQ20.Net-Week5-Task\\SQ20.Net-Week5-Task.csproj",
+        "projectUniqueName": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-5-task-millicent-ekekwe\\SQ20.Net-Week5-Task.csproj",
         "projectName": "SQ20.Net-Week5-Task",
-        "projectPath": "C:\\Users\\Decagon\\source\\repos\\SQ20.Net-Week5-Task\\SQ20.Net-Week5-Task.csproj",
-        "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Decagon\\source\\repos\\SQ20.Net-Week5-Task\\obj\\",
+        "projectPath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-5-task-millicent-ekekwe\\SQ20.Net-Week5-Task.csproj",
+        "packagesPath": "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-5-task-millicent-ekekwe\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ZBOOK 14U G6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +43,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "ConsoleTables": {
+              "target": "Package",
+              "version": "[2.6.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

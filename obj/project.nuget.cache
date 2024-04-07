@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MVt9XTX23tubM1OOthtchEm0s7p56m5kSoACsQ6p689dW4/hVcyLEWBAKGwv0hLhK6az5zX6e+EODXnCUu3oXQ==",
+  "dgSpecHash": "EmloT/K3HzAPDgMvUSZXVilTGIvRJK8+FRtnC2HEMQYG8GZ30YzDVq4L3jOa0qypKyTYpgksv/Fun0Mnp2t7hA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Decagon\\source\\repos\\SQ20.Net-Week5-Task\\SQ20.Net-Week5-Task.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-5-task-millicent-ekekwe\\SQ20.Net-Week5-Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\consoletables\\2.6.1\\consoletables.2.6.1.nupkg.sha512"
+  ],
   "logs": []
 }

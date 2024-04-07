@@ -1,0 +1,16 @@
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-millicent-ekekwe\obj\Debug\net6.0\SQ20.Net-Week5-Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-millicent-ekekwe\obj\Debug\net6.0\SQ20.Net-Week5-Task.AssemblyInfoInputs.cache
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-millicent-ekekwe\obj\Debug\net6.0\SQ20.Net-Week5-Task.AssemblyInfo.cs
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-millicent-ekekwe\obj\Debug\net6.0\SQ20.Net-Week5-Task.csproj.CoreCompileInputs.cache
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-millicent-ekekwe\obj\Debug\net6.0\SQ20.Net-Week5-Task.sourcelink.json
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-millicent-ekekwe\bin\Debug\net6.0\SQ20.Net-Week5-Task.exe
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-millicent-ekekwe\bin\Debug\net6.0\SQ20.Net-Week5-Task.deps.json
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-millicent-ekekwe\bin\Debug\net6.0\SQ20.Net-Week5-Task.runtimeconfig.json
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-millicent-ekekwe\bin\Debug\net6.0\SQ20.Net-Week5-Task.dll
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-millicent-ekekwe\bin\Debug\net6.0\SQ20.Net-Week5-Task.pdb
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-millicent-ekekwe\obj\Debug\net6.0\SQ20.Net-Week5-Task.dll
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-millicent-ekekwe\obj\Debug\net6.0\refint\SQ20.Net-Week5-Task.dll
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-millicent-ekekwe\obj\Debug\net6.0\SQ20.Net-Week5-Task.pdb
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-millicent-ekekwe\obj\Debug\net6.0\SQ20.Net-Week5-Task.genruntimeconfig.cache
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-millicent-ekekwe\obj\Debug\net6.0\ref\SQ20.Net-Week5-Task.dll
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-millicent-ekekwe\obj\Debug\net6.0\SQ20.Net-Week5-Task.csproj.AssemblyReference.cache
